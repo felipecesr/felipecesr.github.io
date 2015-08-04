@@ -1,0 +1,14 @@
+# Site settings
+title: Felipe César
+motto: Desenvolvedor Front End
+email: felipecesr@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Um blog sobre Front End.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://felipecesar.com.br" # the base hostname & protocol for your site
+username: felipecesr
+
+# Build settings
+markdown: kramdown
+
+exclude: [node_modules, gulpfile.js]

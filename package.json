@@ -1,0 +1,25 @@
+{
+  "name": "felipecesr.github.io",
+  "version": "1.0.0",
+  "description": "Jekyll-Pithy is a theme for Jekyll. Here is [my blog](http://wenva.github.io) which use this theme.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipecesr/felipecesr.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipecesr/felipecesr.github.io/issues"
+  },
+  "homepage": "https://github.com/felipecesr/felipecesr.github.io#readme",
+  "devDependencies": {
+    "browser-sync": "^2.8.2",
+    "gulp": "^3.9.0",
+    "gulp-shell": "^0.4.2",
+    "lodash": "^3.10.1"
+  }
+}
